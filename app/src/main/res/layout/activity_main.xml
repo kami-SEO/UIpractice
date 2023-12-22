@@ -31,4 +31,5 @@
         android:gravity="center"
         android:text="문장이 나올 자리"/>
 
+
 </LinearLayout>
